@@ -2,6 +2,7 @@
 There is a English to Hindi translation of movie reviews in this repository.
 
 In this we used,
+  https://pypi.org/project/googletrans/
   A translation API from PyPI.org which is capable of detecting and translating bulk text from one language to the required language.
   We instlalled the API onto our machines, and used the Stanford sentiment treebank which is a database of movie reviews and thier sentiment analysis.
   There are more than 2.30 lakhs reviews which are of about 12mb. 
